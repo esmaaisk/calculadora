@@ -1,0 +1,35 @@
+body{
+	background:#4f5d75;
+	display:flex;
+	justify-content:center;
+	color:white;
+	
+}
+.calculadora{
+	background: #FFCB77;
+	margin-top:2cm;
+	color:black;
+	padding: 15px;
+	border-radius:10px;
+
+}
+#result{
+	background: #F5F5F5;
+	width:100%;
+	height:0.7cm;
+	font-size: 22px;
+	text-align: right;
+	border-radius:5px;
+}
+
+.butao{
+	width: 50px;
+	width:50px;
+	background:#BE995E;
+	border: none;
+	font-size:25px;
+	cursor:pointer;
+}
+.butao:active{
+background:#DAAF6A;
+}
